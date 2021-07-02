@@ -23,11 +23,12 @@
       },
       "last_updated": "1624913848"
           },
+    },
     "3": {
       "title": "Capítulo 3",
-      "volume": "1",
+      "volume": "3",
       "groups": {
-        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/ikPfn9W/"
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/ikPfn9W"
       },
       "last_updated": "1625271841"
     }
